@@ -1,6 +1,6 @@
 <?php
 // Connect to the database (use your credentials)
-$conn = new mysqli("localhost", "root", "", "mmo_characters");
+$conn = new mysqli("localhost", "log in name", "password", "mmo_characters");
 
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
