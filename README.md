@@ -5,4 +5,4 @@
 # Within that record column, create 4 fields (attributes).
 # The first will be an ID# AUTO-INCREMENTED named player_ID or rename and adjust PHP code.
 # The next three will be varchar types named(NAME, RACE, CLASS) or rename and change PHP code.
-# modify to fit your use.
+# Modify to fit your use.
